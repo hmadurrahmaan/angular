@@ -19,3 +19,4 @@ export const caretaker: CaretakerConfig = {
   ],
   caretakerGroup: 'angular-caretaker',
 };
+/** The configuration back end ..//[htt] 
